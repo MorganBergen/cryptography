@@ -27,7 +27,7 @@ we know that $ed \equiv 1 \bmod (p - 1)(q - 1)$, this means that $ed = 1 + k(p -
 
 2.  use the above point to prove that 
 
-$$(m^{e})^{d} \equiv m \bmod n$$
+$$(m^{e})^{d} \equiv m \b \text{mod} n$$
 
 by analyzing three cases by applying fermat's little theorem along with the chinese remainder theorem:
 
